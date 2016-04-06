@@ -377,7 +377,7 @@ function () {
     {
       ghostSpeed: 0.75,
       ghostTunnelSpeed: 0.4,
-      playerSpeed: 0.9,
+      playerSpeed: 10,
       dotEatingSpeed: 0.71,
       ghostFrightSpeed: 0.5,
       playerFrightSpeed: 0.9,
